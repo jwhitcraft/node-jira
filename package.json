@@ -4,7 +4,7 @@
   "description": "Wrapper for the JIRA API",
   "author": "Steven Surowiec <steven.surowiec@gmail.com>",
   "contributors": [
-    "Jon Whitcraft <jwhitcraft@sugarcrm.com>"
+    "Jon Whitcraft <jwhitcraft@sugarcrm.com>",
     "Chris Moultrie <chris@moultrie.org>",
     "Lucas Vogelsang <l@lucasvo.com>"
   ],
